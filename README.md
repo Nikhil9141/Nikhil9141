@@ -8,7 +8,7 @@
 
 ---
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" height="175px" />
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" height="174px" />
 
 ### 👨‍💻 About Me:
 - 🎓 I'm a **Computer Science Engineering student** passionate about coding and problem-solving.  
@@ -26,8 +26,8 @@
 
 ### 🌟 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil9141&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil9141&theme=radical" alt="GitHub Streak" width="48%" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil9141&show_icons=true&theme=radical" alt="GitHub Stats" width="46%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil9141&theme=radical" alt="GitHub Streak" width="46%" style="transform: scale(1.2);" />
 </p>
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhil9141&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
