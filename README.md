@@ -9,6 +9,7 @@
 - I'm a Computer Science Engineering student.
 
 - I’m currently learning *Web Development*
+- I'm a Programmer
 
 - I'm currently honing my skills in both front-end and back-end technologies.
 <br>
